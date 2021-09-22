@@ -26,9 +26,30 @@ h1 {
     float: left;
     width: 50%;
 }
-#paragraph-text {
+#p-text {
     text-align: right;
     word-wrap: normal;
-    border-style: solid;
+    border-style: solid;  
+}
+ul {
+  list-style-type: none;
+  margin: 15px;
+  padding: 0;
+  overflow: hidden;
+  background-color:seagreen;  
     
 }
+li {
+    float: left;
+}
+.links {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 0;
+    text-decoration: none;
+}
+.links:hover {
+    background-color: black;
+}
+
