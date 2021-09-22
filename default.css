@@ -31,6 +31,7 @@ h1 {
     word-wrap: normal;
     border-style: solid;  
 }
+/* Note: I modeled my nav bar from the sample templates on https://www.w3schools.com/css/css_navbar_horizontal.asp */
 ul {
   list-style-type: none;
   margin: 15px;
