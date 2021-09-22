@@ -5,6 +5,9 @@
     background-blend-mode: screen;
 }
 */
+#resume-body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 p {
     font-size: 10px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
