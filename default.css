@@ -1,6 +1,6 @@
 p {
     font-size: 10px;
-    font-family: Helvetica;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 h1 {
     text-align: center;
@@ -8,5 +8,13 @@ h1 {
 #profile-img {
     border-style: solid;
     height: 25%;
-    width: 25%;
+    width: 25%; 
+    
+}
+.column {
+    float: left;
+    width: 50%;
+}
+.paragraph-text {
+    text-align: right;
 }
