@@ -3,6 +3,7 @@ p {
     font-family: Helvetica;
 }
 #profile-img {
-    height: 500px;
-    width: 500px;
+    border-style: solid;
+    height: 25%;
+    width: 25%;
 }
