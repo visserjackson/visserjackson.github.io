@@ -32,7 +32,7 @@ h1 {
     border-style: solid;  
 }
 /* Note: I modeled my nav bar from the sample templates on https://www.w3schools.com/css/css_navbar_horizontal.asp */
-ul {
+#nav-bar {
   list-style-type: none;
   margin: 15px;
   padding: 0;
@@ -40,13 +40,12 @@ ul {
   background-color:seagreen;  
     
 }
-li {
-    float: left;
-}
+
 .links {
     display: block;
     color: white;
     text-align: left;
+    float: left;
     padding: 0;
     text-decoration: none;
 }
