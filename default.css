@@ -2,6 +2,9 @@ p {
     font-size: 10px;
     font-family: Helvetica;
 }
+h1 {
+    text-align: center;
+}
 #profile-img {
     border-style: solid;
     height: 25%;
