@@ -5,8 +5,12 @@
     background-blend-mode: screen;
 }
 */
+#home-body {
+    background-color: peachpuff;
+}
 #resume-body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: mintcream;
 }
 p {
     font-size: 10px;
