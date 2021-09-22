@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+    background-image: url("img/background.png");
+    background-size: 150% 150%;
+    
+}
 p {
     font-size: 10px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 h1 {
     text-align: center;
+    font-family: Bebas Neue, cursive;
+    color:steelblue;
 }
 #profile-img {
     border-style: solid;
@@ -18,4 +26,5 @@ h1 {
 }
 #paragraph-text {
     text-align: right;
+    word-wrap: normal;
 }
