@@ -14,6 +14,7 @@ h1 {
     font-family: Bebas Neue, cursive;
     font-weight: bolder;
     color:steelblue;
+    font-size: 100px;
 }
 #profile-img {
     border-style: solid;
@@ -49,7 +50,5 @@ h1 {
     padding: 0;
     text-decoration: none;
 }
-.links:hover {
-    background-color: black;
-}
+
 
