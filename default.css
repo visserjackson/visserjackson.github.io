@@ -1,43 +1,41 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 /* body {
     background-image: url("img/background.png");
     background-size: 150% 150%;
     background-blend-mode: screen;
-}
-*/
-#home-body {
-    background-color: peachpuff;
+} */
+*/ #home-body {
+  background-color: rgb(156, 149, 143);
 }
 #resume-body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: mintcream;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: mintcream;
 }
 p {
-    font-size: 10px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-size: 22px;
+  font-family: monospace;
 }
 h1 {
-    text-align: center;
-    font-family: Bebas Neue, cursive;
-    font-weight: bolder;
-    color:steelblue;
-    font-size: 100px;
+  text-align: center;
+  font-family: Bebas Neue, cursive;
+  font-weight: bolder;
+  color: steelblue;
+  font-size: 100px;
 }
 #profile-img {
-    border-style: solid;
-    height: 25%;
-    width: 25%; 
-    margin: 0px 50px 50px 50px; 
-    
+  border-style: solid;
+  height: 25%;
+  width: 25%;
+  margin: 0px 50px 50px 50px;
 }
 .column {
-    float: left;
-    width: 50%;
+  float: left;
+  width: 50%;
 }
 #p-text {
-    text-align: right;
-    word-wrap: normal;
-    border-style: solid;  
+  text-align: right;
+  word-wrap: normal;
+  border-style: solid;
 }
 /* Note: I modeled my nav bar from the sample templates on https://www.w3schools.com/css/css_navbar_horizontal.asp */
 #nav-bar {
@@ -45,17 +43,14 @@ h1 {
   margin: 15px;
   padding: 0;
   overflow: hidden;
-  background-color:seagreen;  
-    
+  background-color: seagreen;
 }
 
 .links {
-    display: block;
-    color: white;
-    text-align: left;
-    float: left;
-    padding: 0;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: left;
+  float: left;
+  padding: 0;
+  text-decoration: none;
 }
-
-
