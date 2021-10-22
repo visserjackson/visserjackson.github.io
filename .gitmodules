@@ -1,0 +1,3 @@
+[submodule "addy-app"]
+	path = addy-app
+	url = https://github.com/visserjackson/addy-app
